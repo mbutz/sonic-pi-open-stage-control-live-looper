@@ -1,9 +1,9 @@
 # Open Stage Control Live Looper for Sonic Pi
 # Filename: osc-live-looper.rb
-# Project site and documentation: 
-# License: 
+# Project site: https://github.com/mbutz/sonic-pi-osc-live-looper
+# License: https://github.com/mbutz/sonic-pi-osc-live-looper/blob/master/LICENSE
 #
-# Copyright 2018 by Martin Butz (http://www.mkblog.org).
+# Copyright 2019 by Martin Butz (http://www.mkblog.org).
 # All rights reserved.
 # Permission is granted for use, copying, modification, and
 # distribution of modified versions of this work as long as this
